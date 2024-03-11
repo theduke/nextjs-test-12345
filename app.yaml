@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: theduke-nextjs-test-12345
+package: theduke/nextjs-test-12345
